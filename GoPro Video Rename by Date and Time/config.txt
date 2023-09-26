@@ -1,0 +1,4 @@
+{
+    "input_folder": "D:\\DCIM\\100GOPRO",
+    "output_folder": "output"
+}
